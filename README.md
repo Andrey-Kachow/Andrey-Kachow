@@ -8,13 +8,13 @@
 
 <!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div> -->
 <div style="display: flex; justify-content: space-between;">
-	<div>
+	<mark>
 		## :computer: Technologies I Love
 		* Web w/ Python Flask
 		* Java Eclipse Platform
 		* Android w/ Kotlin
 		* Frontend w/ React
-	</div>
+	</mark>
 	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 </div>
 
