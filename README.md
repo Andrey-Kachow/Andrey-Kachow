@@ -14,7 +14,7 @@
 * Frontend w/ React
 
 <img
-	align="position: relative; bottom: 0; right: 0;" 
+	align="right" 
 	src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 
 ## Programming Languages
