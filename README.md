@@ -12,11 +12,9 @@
 * Java Eclipse Platform
 * Android w/ Kotlin
 * Frontend w/ React
-<div style="height: 0; width: 100%;">
-	<img
-		style="position: relative; bottom: 0; right: 0;" 
-		src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
-</div>
+<img
+	align="position: relative; bottom: 0; right: 0;" 
+	src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 
 ## Programming Languages
 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/python2.png' height='30'
