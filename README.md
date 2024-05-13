@@ -7,15 +7,15 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
 
 <!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div> -->
-<div style="display: flex; justify-content: space-between;">
-	<mark>
-		## :computer: Technologies I Love
-		* Web w/ Python Flask
-		* Java Eclipse Platform
-		* Android w/ Kotlin
-		* Frontend w/ React
-	</mark>
-	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
+## :computer: Technologies I Love
+* Web w/ Python Flask
+* Java Eclipse Platform
+* Android w/ Kotlin
+* Frontend w/ React
+<div style="height: 0;">
+	<img
+		style="position: relative; bottom: 0; left: 0;" 
+		src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 </div>
 
 ## Programming Languages
