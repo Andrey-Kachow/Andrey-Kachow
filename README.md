@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to Andrey's humble abode in the Digital World...</h1> 
+<img align="right src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-andrey--popov--10x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) 
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
@@ -42,8 +42,8 @@
 
  
 ## Current Works
- * Breaking into Cybersec !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
+ * I'm currently working on an Online Psychiatric Assistance Tool using Unity with WebGL and Flask
+ * Learning FastAPI and other valuable skills
  
 ## Other Stuff
   - :octocat: [My Resume](http://andreypopov.xyz/cv)
