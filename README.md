@@ -20,7 +20,7 @@
 		src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 	
 </div>
-<h2>
+<h2 style="border-bottom: 0 solid #000000;">
 	Programming Languages
 </h2> 
 <div style="display: flex"> 
