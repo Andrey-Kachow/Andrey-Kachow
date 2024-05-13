@@ -7,14 +7,16 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
 
 <!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div> -->
-
-## :computer: Technologies I Love
-* Web w/ Python Flask
-* Java Eclipse Platform
-* Android w/ Kotlin
-* Frontend w/ React
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
+<div style="display: flex; justify-content: space-between;">
+	<div>
+		## :computer: Technologies I Love
+		* Web w/ Python Flask
+		* Java Eclipse Platform
+		* Android w/ Kotlin
+		* Frontend w/ React
+	</div>
+	<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
+</div>
 
 ## Programming Languages
 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/python2.png' height='30'
@@ -28,8 +30,8 @@
 /> 
  
  ## Technologies I Use
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/android.svg' height='40'
- /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/flask.png' width='30'
+ <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/flask.png' width='30'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/android.svg' height='40'
  /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/git.svg' width='30'
  /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='33'
  /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/sql.svg' width='30'/> 
