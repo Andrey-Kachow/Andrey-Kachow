@@ -12,9 +12,9 @@
 * Java Eclipse Platform
 * Android w/ Kotlin
 * Frontend w/ React
-<div style="height: 0;">
+<div style="height: 0; width: 100%;">
 	<img
-		style="position: relative; bottom: 0; left: 0;" 
+		style="position: relative; bottom: 0; right: 0;" 
 		src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 </div>
 
