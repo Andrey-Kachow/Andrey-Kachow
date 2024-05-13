@@ -17,26 +17,27 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/python2.png' height='30'/>  
-<img src='https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/java.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/c-original.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/kotlin.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/html.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/css.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/js.svg' width='30'/> 
-<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/cpp.svg' width='30'/> 
+<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/python2.png' height='30'
+/> <img src='https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/java.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/c-original.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/kotlin.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/html.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/css.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/js.svg' width='30'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/cpp.svg' width='30'
+/> 
  
  ## Technologies I Use
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/android.svg' height='40'/>
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/flask.png' width='30'/>
- <!-- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/django.svg' height='40'/> -->
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/git.svg' width='30'/>
+ <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/android.svg' height='40'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/flask.png' width='30'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/git.svg' width='30'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='33'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/sql.svg' width='30'/> 
  <!-- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/nodejs.svg' width='33'/> -->
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/react.svg' width='33'/>
- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/sql.svg' width='30'/> 
+<!-- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/django.svg' height='40'/> -->
  
  ## Who am I?
- Imperial College Master of Engineering (expected soon)
+ Imperial College Master of Engineering (expected soon) with experience in Software Engineering and Personal Tutoring
 
  
 ## Current Works
