@@ -8,12 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
 
-<!-- <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div> -->
-## :computer: Technologies I Love
-* Web w/ Python Flask
-* Java Eclipse Platform
-* Android w/ Kotlin
-* Frontend w/ React
+## Who am I?
+Imperial College Master of Engineering (expected soon) with experience in Software Engineering and Personal Tutoring. [My Resume](http://andreypopov.xyz/cv) :octocat: 
+I develop websites with Python Flask and React, worked on commercial Java Eclipse Platform application and made three Android apps with Kotlin.
+
 
 <div align="right" style="background: white; z-index: 100;">
 	<img
@@ -25,38 +23,34 @@
  		Programming Languages
 </h3> 
 <div style="display: flex"> 
-	<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/python2.png' height='30'
-	/> <img src='https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/java.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/c-original.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/kotlin.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/html.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/css.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/js.svg' width='30'
-	/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/cpp.svg' width='30'
-	/> 
+	<img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/python2.png' height='32'
+/> <img src='https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/java.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/c-original.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/c_sharp.webp' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/kotlin.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/js.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/cpp_logo.png' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/haskell.png' width='32'
+/> 
  </div>
 
 <h3 style="border-bottom: 0; box-shadow: 0;">
 	 Technologies I Use
 </h3> 
  <div style="display: flex"> 
-	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/flask.png' width='30'
-	 /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/android.svg' height='40'
-	 /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/git.svg' width='30'
-	 /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='33'
-	 /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/sql.svg' width='30'/> 
-	 <!-- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/master/images/nodejs.svg' width='33'/> -->
-	<!-- <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/django.svg' height='40'/> -->
+	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/flask.png' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/aws.png' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/unity.png' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/html.svg' width='32'
+/> <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/css.svg' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/android.svg' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/git.svg' width='32'
+ /><img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/sql.svg' width='32'/> 
  </div>
- 
- ## Who am I?
- Imperial College Master of Engineering (expected soon) with experience in Software Engineering and Personal Tutoring. [My Resume](http://andreypopov.xyz/cv) :octocat: 
-
  
 ## Current Works
  * I'm currently working on an Online Psychiatric Assistance Tool using Unity with WebGL and Flask
  * Learning FastAPI and other valuable skills
 
 <!-- ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Kachow&show_icons=true&hide=[%22issues%22]) -->
- 
- 
