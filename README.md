@@ -1,5 +1,5 @@
 
-<h1>Welcome to Andrey's humble abode in the Digital World...</h1> 
+<h2>Welcome to Andrey's humble abode in the Digital World...</h2> 
 
 
 
@@ -7,13 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
 <img
+	style="box-shadow: 5px 5px 25px 5px #606060;"
 	align="right" 
-	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/CV.png"
-	width="110"
+	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/CV2.png"
 	height="110">
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-## Who am I?
+### Who am I?
 Computing MEng at Imperial College (soon) with experience in Commercial Software Engineering and Personal Tutoring.
 I create RESTful apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
 
@@ -52,8 +52,8 @@ I create RESTful apps with Python and React, have worked on a B2B Java Eclipse P
 	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='32'/> 
  </div>
  
-## Current Works
- * I'm currently working on an Online Psychiatric Assistance Tool using Unity with WebGL and Flask
- * Learning FastAPI and other valuable skills
+### Current Works
+I'm working on an Online Psychiatric Assistance Tool using Unity with WebGL and Flask.
+In addition, I am learning FastAPI and other valuable skills and seeking new career opportunities.
 
 <!-- ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Kachow&show_icons=true&hide=[%22issues%22]) -->
