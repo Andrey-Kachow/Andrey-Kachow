@@ -6,10 +6,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andrey--popov--10x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) 
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
-<div align="right" width="100">
-	<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
-	<a align="right" href="http://andreypopov.xyz/cv">My Resume :octocat:</a> 
-</div>
+<img
+	align="right" 
+	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/CV.png"
+	width="110"
+	height="110">
+<img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ## Who am I?
 Computing MEng at Imperial College (soon) with experience in Commercial Software Engineering and Personal Tutoring.
