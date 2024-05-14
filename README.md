@@ -16,7 +16,7 @@
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ### Who am I?
-Computing MEng at Imperial College with experience in commercial software engineering and personal tutoring.
+Computing MEng at Imperial College London with experience in commercial software engineering and personal tutoring.
 I create REST apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
 
 <div align="right" style="background: white; z-index: 100;">
