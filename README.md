@@ -20,11 +20,11 @@ Computing MEng at Imperial College London with experience in commercial software
 I create REST apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
 
 <img
-	height="170"
+	height="165"
 	align="right" 
 	src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
 <img
-	height="170"
+	height="165"
 	align="right" 
 	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/megamix.png">
 <!-- <h3>
