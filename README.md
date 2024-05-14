@@ -19,12 +19,15 @@
 Computing MEng at Imperial College London with experience in commercial software engineering and personal tutoring.
 I create REST apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
 
-<div align="right" style="background: white; z-index: 100;">
-	<img
-		align="right" 
-		src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
-</div>
-<h3>
+<img
+	height="170"
+	align="right" 
+	src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey-Kachow&layout=compact">
+<img
+	height="170"
+	align="right" 
+	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/megamix.png">
+<!-- <h3>
  		Programming Languages
 </h3> 
 <div style="display: flex"> 
@@ -52,7 +55,7 @@ I create REST apps with Python and React, have worked on a B2B Java Eclipse Plat
 	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/git.svg' width='32'/>
 	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/sql.svg' width='32'/> 
 	 <img src = 'https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/react.svg' width='32'/> 
- </div>
+ </div> -->
  
 ### Current Works
 I'm working on an Online Psychiatric Assistance Tool using Unity with WebGL and Flask.
