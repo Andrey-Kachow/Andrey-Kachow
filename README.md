@@ -6,11 +6,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-andrey--popov--10x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/haany-ali)](https://www.linkedin.com/in/haany-ali) 
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
-<img
+<a href="http://andreypopov.xyz/cv"
+	><img
 	style="box-shadow: 5px 5px 25px 5px #606060;"
 	align="right" 
 	src = "https://github.com/Andrey-Kachow/Andrey-Kachow/blob/main/images/CV2.png"
 	height="110">
+</a>
 <img align="right" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 ### Who am I?
