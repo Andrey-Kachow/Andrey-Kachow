@@ -2,9 +2,10 @@
 <h2>Welcome to Andrey's humble abode in the Digital World...</h2> 
 
 
-
 [![Linkedin Badge](https://img.shields.io/badge/-andrey--popov--10x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-popov-10x/)](https://www.linkedin.com/in/andrey-popov-10x/) 
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
+[![Static Badge](https://img.shields.io/badge/www-andreypopov.xyz-green?style=flat-square&labelColor=888&labelTextColor=white&color=green)](http://andreypopov.xyz/) 
+
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
 <a href="http://andreypopov.xyz/cv"
 	><img
