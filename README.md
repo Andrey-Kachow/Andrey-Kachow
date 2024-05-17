@@ -20,7 +20,7 @@
 
 ### Who am I?
 Computing MEng at Imperial College London with experience in commercial software engineering and personal tutoring.
-I create REST apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
+I create Web apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
 
 <img
 	height="165"
