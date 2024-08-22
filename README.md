@@ -61,6 +61,6 @@ I create Web apps with Python and React, have worked on a B2B Java Eclipse Platf
  </div> -->
  
 ### Current Works
-I am open to work and am currently focused on improving my skills. I continue my private tutoring activity, teaching Computer Science and Programming and work on a few other projects.
+I am open to work and am currently focused on improving my skills. Plus, I continue my private tutoring activity, teaching Computer Science and Programming.
 
 <!-- ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Kachow&show_icons=true&hide=[%22issues%22]) -->
