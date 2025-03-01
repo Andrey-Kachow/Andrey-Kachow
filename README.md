@@ -3,7 +3,7 @@
 
 
 [![Static Badge](https://img.shields.io/badge/www-andreypopov.xyz-green?style=flat-square&labelColor=888&labelTextColor=white&color=green)](http://andreypopov.xyz/) 
-[![Linkedin Badge](https://img.shields.io/badge/-andrey--popov--10x-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrey-popov-10x/)](https://www.linkedin.com/in/andrey-popov-10x/) 
+[![Linkedin Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAndrey-Kachow%2FAndrey-Kachow%2Frefs%2Fheads%2Fmain%2Fimages%2Flinked_in_badge.json&color=%230a66c299&style=flat-square)](https://www.linkedin.com/in/andrey-popov-10x/) 
 [![Gmail Badge](https://img.shields.io/badge/-andr10xp@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andr10xp@gmail.com)](mailto:andr10xp@gmail.com) 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Andrey-Kachow" alt="Andrey-Kachow" /> </p> -->
