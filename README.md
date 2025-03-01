@@ -19,8 +19,8 @@
 
 
 ### Who am I?
-Computing MEng at Imperial College London with experience in commercial software engineering and personal tutoring.
-I create Web apps with Python and React, have worked on a B2B Java Eclipse Platform application, and authored three Android apps made with Kotlin.
+Software Engineer at Minimax Labs and Computing Graduate from Imperial College London with experience in commercial software engineering and personal tutoring.
+I create web apps with Angular and React, and I have experience in Java desktop application development. I have also authored three Android apps made with Kotlin.
 
 <img
 	height="165"
@@ -61,6 +61,6 @@ I create Web apps with Python and React, have worked on a B2B Java Eclipse Platf
  </div> -->
  
 ### Current Works
-I am open to work and am currently focused on improving my skills. Plus, I continue my private tutoring activity, teaching Computer Science and Programming.
+I am a software engineer at Minimax Labs and actively learn and develop my skills. I stay in touch with my tutees and remain an active mentor for some of them. 
 
 <!-- ![Andrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrey-Kachow&show_icons=true&hide=[%22issues%22]) -->
